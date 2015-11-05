@@ -83,6 +83,10 @@ $(document).on("keydown", function(e) {
     var command = null;
 
     switch(code) {
+      case 32:
+        jsonrpc.method = "Player.PlayPause";
+        jsonrpc.params = {"playerid": 1, play: "toggle"}
+        break;
       case 37:
         jsonrpc.method = "Input.Left";
         break;
