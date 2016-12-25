@@ -35,7 +35,6 @@ RewriteRule server http://osmc.local/jsonrpc [P]
 ## Built With
 
 * [jQuery](https://jquery.com)
-* [Bootstrap](http://getbootstrap.com)
 
 ## Authors
 
