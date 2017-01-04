@@ -38,7 +38,7 @@ RewriteRule server http://osmc.local/jsonrpc [P]
 
 ## Authors
 
-* **Aziez Ahmed Chawdhary(https://github.com/aziezahmed)**
+* **[Aziez Ahmed Chawdhary](https://github.com/aziezahmed)**
 
 ## License
 
